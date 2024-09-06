@@ -1,0 +1,17 @@
+{
+  "name": "dinosaur-game",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "johnny-five": "^2.1.0",
+    "lcd": "^3.1.1",
+    "nodemon": "^3.1.4"
+  }
+}
